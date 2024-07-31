@@ -24,17 +24,36 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.68706324"
-     inkscape:cx="788.86479"
-     inkscape:cy="577.09389"
+     inkscape:zoom="0.82196522"
+     inkscape:cx="324.83126"
+     inkscape:cy="612.55633"
      inkscape:window-width="1920"
      inkscape:window-height="1052"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="g5773" />
   <defs
-     id="defs2" />
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow4"
+       markerWidth="5"
+       markerHeight="6"
+       viewBox="0 0 5 6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="m 1,0 -3,3 h -2 l 3,-3 -3,-3 h 2 z"
+         id="path1741" />
+    </marker>
+  </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -300,6 +319,24 @@
            x="69.458527"
            y="174.38791"
            id="tspan4683">USB A</tspan></text>
+      <rect
+         style="fill:#ff6600;fill-opacity:0.78828;stroke:none;stroke-width:6.06242;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         id="rect22868"
+         width="27.006153"
+         height="34.31966"
+         x="-12.90678"
+         y="166.74683" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#ff6600;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         x="35.016174"
+         y="194.21678"
+         id="text22874"><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;stroke-width:3"
+           x="35.016174"
+           y="194.21678"
+           id="tspan22872">Cable sheath</tspan></text>
     </g>
     <g
        id="g5761">
@@ -1165,18 +1202,18 @@
        x="385.03091"
        y="27.219545" />
     <rect
-       style="fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:1.66047;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:2.76653;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
        id="rect9792"
        width="4.4328351"
-       height="15.68542"
+       height="43.541836"
        x="-122.38425"
        y="242.69655"
        transform="rotate(-90)" />
     <rect
-       style="fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:1.66047;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3.34052;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
        id="rect9794"
        width="4.4328351"
-       height="15.68542"
+       height="63.483818"
        x="-234.06125"
        y="242.69655"
        transform="rotate(-90)" />
@@ -1238,10 +1275,10 @@
          y="233.15233"
          id="tspan9818">DAC</tspan></text>
     <rect
-       style="fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:1.66047;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3.32852;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
        id="rect9828"
        width="4.4328351"
-       height="15.68542"
+       height="63.028595"
        x="-247.15442"
        y="242.69655"
        transform="rotate(-90)" />
@@ -1272,28 +1309,268 @@
          x="230.04805"
          y="285.21417"
          id="tspan9838">FOCUS</tspan></text>
-    <ellipse
-       style="fill:none;fill-opacity:0.78828;stroke:#fe0000;stroke-width:1.5966;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
-       id="path10111"
-       cx="326.55899"
-       cy="150.95651"
-       rx="24.562565"
-       ry="25.717844" />
+    <rect
+       style="fill:#0000ff;fill-opacity:0.617647;stroke:none;stroke-width:3.16763;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       id="rect15420"
+       width="6.5256281"
+       height="139.04117"
+       x="265.43619"
+       y="40.914211" />
+    <rect
+       style="fill:#0000ff;fill-opacity:0.617647;stroke:none;stroke-width:3.00452;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       id="rect17242"
+       width="6.5256281"
+       height="125.091"
+       x="-70.310364"
+       y="265.29773"
+       transform="rotate(-90)" />
+    <rect
+       style="fill:#0000ff;fill-opacity:0.617647;stroke:none;stroke-width:3.1705;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       id="rect17244"
+       width="6.5256281"
+       height="139.29364"
+       x="384.11874"
+       y="41.707191" />
+    <path
+       style="fill:#0000ff;fill-opacity:0.617647;stroke:#00d1fe;stroke-width:2.2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow4)"
+       d="m 268.55564,48.462438 -0.0661,10.573056"
+       id="path17405"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#0000ff;fill-opacity:0.617647;stroke:#00d1fe;stroke-width:2.2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow4)"
+       d="M 387.02607,84.559756 387.09217,73.9867"
+       id="path19606"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#0000ff;fill-opacity:0.617647;stroke:#00d1fe;stroke-width:2.2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow4)"
+       d="m 323.85879,66.959984 10.57306,0.0661"
+       id="path19610"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#0000ff;fill-opacity:0.617647;stroke:#00d1fe;stroke-width:2.2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       id="path19666"
+       cx="283.99661"
+       cy="98.008743"
+       r="20.05924" />
+    <g
+       id="g22291">
+      <rect
+         style="fill:#008080;fill-opacity:0.78828;stroke:none;stroke-width:6.45806;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         id="rect19670"
+         width="131.25777"
+         height="13.019544"
+         x="263.66135"
+         y="178.18381" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#ffffff;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         x="331.76596"
+         y="188.11421"
+         id="text19674"><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+           x="331.76596"
+           y="188.11421"
+           id="tspan19672">capillary Flowcell</tspan></text>
+    </g>
+    <rect
+       style="fill:#0000ff;fill-opacity:0.617647;stroke:#00d1fe;stroke-width:2.2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       id="rect21030"
+       width="24.155407"
+       height="48.069267"
+       x="-158.01289"
+       y="322.74698"
+       transform="rotate(-90)" />
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:start;text-anchor:start;fill:none;fill-opacity:0.78828;stroke:#fe0000;stroke-width:2.2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
-       x="306.91922"
-       y="149.41614"
-       id="text10685"><tspan
+       style="font-size:8.81944px;line-height:0;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:start;text-anchor:start;fill:#0000ff;fill-opacity:0.617647;stroke:none;stroke-width:2.2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       x="274.16391"
+       y="175.85139"
+       id="text21042"><tspan
          sodipodi:role="line"
-         id="tspan10683"
-         style="fill:#333333;fill-opacity:0.78828;stroke:none;stroke-width:2.2"
-         x="306.91922"
-         y="149.41614">TBD/</tspan><tspan
+         id="tspan21040"
+         style="stroke:none;stroke-width:2.2"
+         x="274.16391"
+         y="175.85139">Flowcell inlet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.81944px;line-height:0;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:start;text-anchor:start;fill:#0000ff;fill-opacity:0.617647;stroke:none;stroke-width:2.2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       x="333.82776"
+       y="176.09294"
+       id="text21148"><tspan
          sodipodi:role="line"
-         style="fill:#333333;fill-opacity:0.78828;stroke:none;stroke-width:2.2"
-         x="306.91922"
-         y="158.23558"
-         id="tspan10789">See drawing in issue</tspan></text>
+         id="tspan21146"
+         style="stroke:none;stroke-width:2.2"
+         x="333.82776"
+         y="176.09294">Flowcell outlet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:start;text-anchor:start;fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       x="268.52957"
+       y="98.101715"
+       id="text21152"><tspan
+         sodipodi:role="line"
+         id="tspan21150"
+         style="fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2"
+         x="268.52957"
+         y="98.101715">Peristaltic </tspan><tspan
+         sodipodi:role="line"
+         style="fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2"
+         x="268.52957"
+         y="106.92116"
+         id="tspan21757">pump</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:start;text-anchor:start;fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       x="321.68671"
+       y="114.30903"
+       id="text21156"><tspan
+         sodipodi:role="line"
+         id="tspan21154"
+         style="fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2"
+         x="321.68671"
+         y="114.30903">syringe as</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2"
+         x="321.68671"
+         y="123.12847"
+         id="tspan22032">OUtlet fluid </tspan><tspan
+         sodipodi:role="line"
+         style="fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2"
+         x="321.68671"
+         y="131.94792"
+         id="tspan21158">repository</tspan></text>
+    <path
+       style="fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       d="m 375.19392,92.814096 v 14.585374 h 3.86487 v -5.22208 h 8.45439 l 1.0266,-1.93243 -1.0266,-1.932438 h -8.21285 l -0.10893,-5.492927 z"
+       id="path21162"
+       sodipodi:nodetypes="cccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.65592px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:start;text-anchor:start;fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:1.90976;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       x="357.57297"
+       y="99.859077"
+       id="text21649"><tspan
+         sodipodi:role="line"
+         id="tspan21647"
+         style="text-align:center;text-anchor:middle;fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:1.90976"
+         x="357.57297"
+         y="99.859077">Constriction </tspan><tspan
+         sodipodi:role="line"
+         style="fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:1.90976"
+         x="357.57297"
+         y="107.515"
+         id="tspan21753">valve</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:start;text-anchor:start;fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       x="276.56918"
+       y="55.587101"
+       id="text21767"><tspan
+         sodipodi:role="line"
+         style="fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2"
+         x="276.56918"
+         y="55.587101"
+         id="tspan21765">Inlet check</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:start;text-anchor:start;fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       x="312.87979"
+       y="58.903137"
+       id="text21773"><tspan
+         sodipodi:role="line"
+         style="fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2"
+         x="312.87979"
+         y="58.903137"
+         id="tspan21771">bypass check</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:start;text-anchor:start;fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       x="340.7345"
+       y="78.965157"
+       id="text21777"><tspan
+         sodipodi:role="line"
+         style="fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2"
+         x="340.7345"
+         y="78.965157"
+         id="tspan21775">outlet check</tspan></text>
+    <rect
+       style="fill:#0000ff;fill-opacity:0.617647;stroke:none;stroke-width:1.38129;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       id="rect21779"
+       width="6.5256281"
+       height="26.438932"
+       x="-150.22684"
+       y="364.1156"
+       transform="rotate(-90)" />
+    <g
+       id="g22305"
+       transform="translate(-0.45522284,38.46633)">
+      <rect
+         style="fill:#008080;fill-opacity:0.78828;stroke:none;stroke-width:7.89542;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         id="rect22299"
+         width="62.974335"
+         height="40.560524"
+         x="300.76199"
+         y="178.41142" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#ffffff;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         x="340.64279"
+         y="192.89406"
+         id="text22303"><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+           x="340.64279"
+           y="192.89406"
+           id="tspan22301">led illum</tspan><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+           x="340.64279"
+           y="201.7135"
+           id="tspan22307">high power</tspan><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+           x="340.64279"
+           y="210.53294"
+           id="tspan22309">cc driver</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:7.77615px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:2.64512;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       x="285.42651"
+       y="228.82771"
+       id="text22315"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.64512"
+         x="285.42651"
+         y="228.82771"
+         id="tspan22313">analog dim</tspan></text>
+    <g
+       id="g22327"
+       transform="translate(-70.331928,74.884157)">
+      <rect
+         style="fill:#008080;fill-opacity:0.78828;stroke:none;stroke-width:3.96518;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         id="rect22317"
+         width="27.694567"
+         height="23.262056"
+         x="325.34402"
+         y="182.73604" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#ffffff;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         x="340.64279"
+         y="192.89406"
+         id="text22325"><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+           x="340.64279"
+           y="192.89406"
+           id="tspan22323">focus </tspan><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+           x="340.64279"
+           y="201.7135"
+           id="tspan22334">motor</tspan></text>
+    </g>
   </g>
 </svg>
