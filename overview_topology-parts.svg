@@ -24,15 +24,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.82196522"
-     inkscape:cx="324.83126"
-     inkscape:cy="612.55633"
+     inkscape:zoom="0.84753805"
+     inkscape:cx="1100.8355"
+     inkscape:cy="433.60885"
      inkscape:window-width="1920"
      inkscape:window-height="1052"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g5773" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs2">
     <marker
@@ -72,36 +72,36 @@
        y="54.028809" />
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#ff6600;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#ff6600;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="50.051277"
        y="16.031099"
        id="text2325"><tspan
          sodipodi:role="line"
          id="tspan2323"
-         style="text-align:center;text-anchor:middle;stroke-width:3"
+         style="text-align:center;text-anchor:middle;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="50.051277"
-         y="16.031099">AC-DC </tspan><tspan
+         y="16.031099">ac-dc </tspan><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;stroke-width:3"
+         style="text-align:center;text-anchor:middle;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="50.051277"
          y="24.85054"
          id="tspan3373">power supply</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#ff6600;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#ff6600;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="32.563076"
        y="43.362988"
        id="text2329"><tspan
          sodipodi:role="line"
          id="tspan2327"
-         style="stroke-width:3"
+         style="stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="32.563076"
-         y="43.362988">DC Power </tspan><tspan
+         y="43.362988">dc power </tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:3"
+         style="stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="32.563076"
          y="52.182426"
-         id="tspan2381">INPUT JACK</tspan></text>
+         id="tspan2381">input jack</tspan></text>
     <rect
        style="fill:#ff6600;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
        id="rect2383"
@@ -118,36 +118,36 @@
        y="54.028809" />
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#ff6600;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#ff6600;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="130.25717"
        y="40.730301"
        id="text2389"><tspan
          sodipodi:role="line"
          id="tspan2387"
-         style="stroke-width:3"
+         style="stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="130.25717"
-         y="40.730301">BOAT</tspan><tspan
+         y="40.730301">boat</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:3"
+         style="stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="130.25717"
          y="49.54974"
-         id="tspan2391">INLET</tspan></text>
+         id="tspan2391">inlet</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#ff6600;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#ff6600;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="158.67758"
        y="41.412277"
        id="text2397"><tspan
          sodipodi:role="line"
          id="tspan2393"
-         style="text-align:center;text-anchor:middle;stroke-width:3"
+         style="text-align:center;text-anchor:middle;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="158.67758"
-         y="41.412277">BOAT</tspan><tspan
+         y="41.412277">boat</tspan><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;stroke-width:3"
+         style="text-align:center;text-anchor:middle;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="158.67758"
          y="50.231716"
-         id="tspan2395">OUTLET</tspan></text>
+         id="tspan2395">outlet</tspan></text>
     <rect
        style="fill:#4d4d4d;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
        id="rect2503"
@@ -164,26 +164,26 @@
        y="13.298508" />
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:0;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#4d4d4d;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#4d4d4d;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="119.68656"
        y="10.570608"
        id="text2611"><tspan
          sodipodi:role="line"
          id="tspan2609"
-         style="stroke-width:3"
+         style="stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="119.68656"
-         y="10.570608">CONSTANT flow bypass</tspan></text>
+         y="10.570608">constant flow bypass</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:0;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#4d4d4d;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#4d4d4d;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="153.44432"
        y="28.642939"
        id="text2615"><tspan
          sodipodi:role="line"
          id="tspan2613"
-         style="stroke-width:3"
+         style="stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="153.44432"
-         y="28.642939">TEE to OUR setup</tspan></text>
+         y="28.642939">tee to our setup</tspan></text>
     <rect
        style="fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:4.03201;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
        id="rect4693"
@@ -193,36 +193,36 @@
        y="52.360657" />
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#ff6600;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#ff6600;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="135.77095"
        y="83.694717"
        id="text2621"><tspan
          sodipodi:role="line"
          id="tspan2617"
-         style="text-align:center;text-anchor:middle;stroke-width:3"
+         style="text-align:center;text-anchor:middle;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="135.77095"
-         y="83.694717">BOX</tspan><tspan
+         y="83.694717">box</tspan><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;stroke-width:3"
+         style="text-align:center;text-anchor:middle;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="135.77095"
          y="92.51416"
-         id="tspan2619">INLET</tspan></text>
+         id="tspan2619">inlet</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#ff6600;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#ff6600;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="154.24475"
        y="84.376686"
        id="text2627"><tspan
          sodipodi:role="line"
          id="tspan2623"
-         style="text-align:center;text-anchor:middle;stroke-width:3"
+         style="text-align:center;text-anchor:middle;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="154.24475"
-         y="84.376686">BOX</tspan><tspan
+         y="84.376686">box</tspan><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;stroke-width:3"
+         style="text-align:center;text-anchor:middle;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="154.24475"
          y="93.196129"
-         id="tspan2625">OUTLET</tspan></text>
+         id="tspan2625">outlet</tspan></text>
     <rect
        style="fill:#ff6600;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
        id="rect3371"
@@ -232,20 +232,20 @@
        y="54.369797" />
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#ff6600;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#ff6600;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="76.158638"
        y="43.117214"
        id="text3379"><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;stroke-width:3"
+         style="text-align:center;text-anchor:middle;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="76.158638"
          y="43.117214"
-         id="tspan3377">GPS </tspan><tspan
+         id="tspan3377">gps </tspan><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;stroke-width:3"
+         style="text-align:center;text-anchor:middle;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="76.158638"
          y="51.936653"
-         id="tspan3383">ANTENNA</tspan></text>
+         id="tspan3383">antenna</tspan></text>
     <rect
        style="fill:none;fill-opacity:0.78828;stroke:#000000;stroke-width:2.98112;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
        id="rect3385"
@@ -262,37 +262,37 @@
        y="218.58347" />
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:0;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#000000;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#000000;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="167.08382"
        y="277.22275"
        id="text3447"><tspan
          sodipodi:role="line"
          id="tspan3445"
-         style="fill:#000000;fill-opacity:0.78828;stroke-width:3"
+         style="fill:#000000;fill-opacity:0.78828;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="167.08382"
-         y="277.22275">INNER LID</tspan></text>
+         y="277.22275">inner lid</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:0;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#000000;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#000000;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="167.08382"
        y="204.25145"
        id="text3553"><tspan
          sodipodi:role="line"
          id="tspan3551"
-         style="fill:#000000;fill-opacity:0.78828;stroke-width:3"
+         style="fill:#000000;fill-opacity:0.78828;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="167.08382"
-         y="204.25145">INNER BOTTOM</tspan></text>
+         y="204.25145">inner bottom</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:0;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#000000;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#000000;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="168.78874"
        y="125.82435"
        id="text3557"><tspan
          sodipodi:role="line"
          id="tspan3555"
-         style="fill:#000000;fill-opacity:0.78828;stroke-width:3"
+         style="fill:#000000;fill-opacity:0.78828;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="168.78874"
-         y="125.82435">INSIDE BOTTOM</tspan></text>
+         y="125.82435">inside bottom</tspan></text>
     <g
        id="g5773"
        transform="translate(29.362815,21.277123)">
@@ -305,20 +305,20 @@
          y="134.87961" />
       <text
          xml:space="preserve"
-         style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#ff6600;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#ff6600;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="69.458527"
          y="165.56847"
          id="text3565"><tspan
            sodipodi:role="line"
-           style="text-align:center;text-anchor:middle;stroke-width:3"
+           style="text-align:center;text-anchor:middle;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            x="69.458527"
            y="165.56847"
            id="tspan3563">2x </tspan><tspan
            sodipodi:role="line"
-           style="text-align:center;text-anchor:middle;stroke-width:3"
+           style="text-align:center;text-anchor:middle;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            x="69.458527"
            y="174.38791"
-           id="tspan4683">USB A</tspan></text>
+           id="tspan4683">usb a</tspan></text>
       <rect
          style="fill:#ff6600;fill-opacity:0.78828;stroke:none;stroke-width:6.06242;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
          id="rect22868"
@@ -328,15 +328,15 @@
          y="166.74683" />
       <text
          xml:space="preserve"
-         style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#ff6600;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#ff6600;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="35.016174"
          y="194.21678"
          id="text22874"><tspan
            sodipodi:role="line"
-           style="text-align:center;text-anchor:middle;stroke-width:3"
+           style="text-align:center;text-anchor:middle;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            x="35.016174"
            y="194.21678"
-           id="tspan22872">Cable sheath</tspan></text>
+           id="tspan22872">cable sheath</tspan></text>
     </g>
     <g
        id="g5761">
@@ -349,15 +349,15 @@
          y="79.109047" />
       <text
          xml:space="preserve"
-         style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#ffffff;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#ffffff;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="88.373711"
          y="90.173477"
          id="text4464"><tspan
            sodipodi:role="line"
-           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            x="88.373711"
            y="90.173477"
-           id="tspan4462">GPS MODULE</tspan></text>
+           id="tspan4462">gps module</tspan></text>
     </g>
     <rect
        style="fill:#008080;fill-opacity:0.78828;stroke:none;stroke-width:5.11736;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
@@ -368,17 +368,17 @@
        y="249.03912" />
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#ffffff;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#ffffff;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="77.795738"
        y="260.00974"
        id="text4623"><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+         style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="77.795738"
          y="260.00974"
-         id="tspan4621">Raspberry</tspan><tspan
+         id="tspan4621">raspberry</tspan><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+         style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="77.795738"
          y="268.82916"
          id="tspan4625">pi 5</tspan></text>
@@ -394,25 +394,25 @@
          y="133.05829" />
       <text
          xml:space="preserve"
-         style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#ffffff;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#ffffff;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="27.019526"
          y="140.95267"
          id="text6294"><tspan
            sodipodi:role="line"
-           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            x="27.019526"
            y="140.95267"
-           id="tspan6292">USB3-M.2</tspan><tspan
+           id="tspan6292">usb3-m.2</tspan><tspan
            sodipodi:role="line"
-           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            x="27.019526"
            y="149.77211"
            id="tspan6429">m-key</tspan><tspan
            sodipodi:role="line"
-           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            x="27.019526"
            y="158.59155"
-           id="tspan6298">SSD holder</tspan></text>
+           id="tspan6298">ssd holder</tspan></text>
     </g>
     <g
        id="g5767"
@@ -426,43 +426,43 @@
          y="134.87961" />
       <text
          xml:space="preserve"
-         style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#ff6600;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#ff6600;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="53.599976"
          y="124.55232"
          id="text4689"><tspan
            sodipodi:role="line"
-           style="text-align:center;text-anchor:middle;stroke-width:3"
+           style="text-align:center;text-anchor:middle;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            x="53.599976"
            y="124.55232"
-           id="tspan4685">RJ45</tspan><tspan
+           id="tspan4685">rj45</tspan><tspan
            sodipodi:role="line"
-           style="text-align:center;text-anchor:middle;stroke-width:3"
+           style="text-align:center;text-anchor:middle;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            x="53.599976"
            y="133.37177"
-           id="tspan4687">JACK</tspan></text>
+           id="tspan4687">jack</tspan></text>
     </g>
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="60.35767"
        y="104.36736"
        id="text4699"><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3"
+         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="60.35767"
          y="104.36736"
-         id="tspan4697">USB A-C</tspan></text>
+         id="tspan4697">usb a-c</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="96.055542"
        y="74.865837"
        id="text4807"><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3"
+         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="96.055542"
          y="74.865837"
-         id="tspan4805">SMA M-F</tspan></text>
+         id="tspan4805">sma m-f</tspan></text>
     <rect
        style="fill:#008080;fill-opacity:0.78828;stroke:none;stroke-width:5.18256;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
        id="rect4874"
@@ -472,20 +472,20 @@
        y="251.64865" />
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#ffffff;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#ffffff;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="134.28394"
        y="259.36835"
        id="text4880"><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+         style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="134.28394"
          y="259.36835"
-         id="tspan4876">Rasp. PI</tspan><tspan
+         id="tspan4876">rasp. pi</tspan><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+         style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="134.28394"
          y="268.18777"
-         id="tspan4878">TOUCH DISPLAY</tspan></text>
+         id="tspan4878">touch display</tspan></text>
     <g
        id="g5658"
        transform="translate(39.3855,16.204799)"
@@ -499,38 +499,38 @@
          y="253.20222" />
       <text
          xml:space="preserve"
-         style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#554400;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#554400;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="70.163895"
          y="260.83292"
          id="text4957"><tspan
            sodipodi:role="line"
-           style="text-align:center;text-anchor:middle;fill:#554400;stroke-width:3"
+           style="text-align:center;text-anchor:middle;fill:#554400;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            x="70.163895"
            y="260.83292"
-           id="tspan4955">15pin FFC:</tspan><tspan
+           id="tspan4955">15pin ffc:</tspan><tspan
            sodipodi:role="line"
-           style="text-align:center;text-anchor:middle;fill:#554400;stroke-width:3"
+           style="text-align:center;text-anchor:middle;fill:#554400;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            x="70.163895"
            y="269.65234"
-           id="tspan5071">DSI+I2C</tspan></text>
+           id="tspan5071">dsi+i2c</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:5.96587px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:start;text-anchor:start;fill:#554400;fill-opacity:0.78828;stroke:none;stroke-width:2.02934;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;text-anchor:start;fill:#554400;fill-opacity:0.78828;stroke:none;stroke-width:2.02934;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="85.416283"
          y="258.51273"
          id="text5153"><tspan
            sodipodi:role="line"
-           style="text-align:start;text-anchor:start;fill:#554400;stroke-width:2.02934"
+           style="text-align:start;text-anchor:start;fill:#554400;stroke-width:2.02934;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            x="85.416283"
            y="258.51273"
-           id="tspan5151">3.3V,GND/S</tspan><tspan
+           id="tspan5151">3.3v,gnd/s</tspan><tspan
            sodipodi:role="line"
-           style="text-align:start;text-anchor:start;fill:#554400;stroke-width:2.02934"
+           style="text-align:start;text-anchor:start;fill:#554400;stroke-width:2.02934;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            x="85.416283"
            y="264.47861"
-           id="tspan5157">SDA,SCL</tspan><tspan
+           id="tspan5157">sda,scl</tspan><tspan
            sodipodi:role="line"
-           style="text-align:start;text-anchor:start;fill:#554400;stroke-width:2.02934"
+           style="text-align:start;text-anchor:start;fill:#554400;stroke-width:2.02934;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            x="85.416283"
            y="270.44446"
            id="tspan5159">3 l-m'd pairs</tspan></text>
@@ -547,20 +547,20 @@
          y="110.24306" />
       <text
          xml:space="preserve"
-         style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#ffffff;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#ffffff;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="67.77932"
          y="121.98271"
          id="text5754"><tspan
            sodipodi:role="line"
-           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            x="67.77932"
            y="121.98271"
-           id="tspan5750">PCIe-USB3</tspan><tspan
+           id="tspan5750">pcie-usb3</tspan><tspan
            sodipodi:role="line"
-           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            x="67.77932"
            y="130.80215"
-           id="tspan5752">Shield/HAT</tspan></text>
+           id="tspan5752">shield/hat</tspan></text>
     </g>
     <rect
        style="fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:1.66047;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
@@ -584,20 +584,20 @@
            y="114.60102" />
         <text
            xml:space="preserve"
-           style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#ffffff;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+           style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#ffffff;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            x="67.77932"
            y="121.98271"
            id="text5781"><tspan
              sodipodi:role="line"
-             style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+             style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
              x="67.77932"
              y="121.98271"
-             id="tspan5777">USB3-USB3</tspan><tspan
+             id="tspan5777">usb3-usb3</tspan><tspan
              sodipodi:role="line"
-             style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+             style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
              x="67.77932"
              y="130.80215"
-             id="tspan5779">HUB</tspan></text>
+             id="tspan5779">hub</tspan></text>
       </g>
     </g>
     <rect
@@ -610,22 +610,22 @@
        transform="matrix(-0.99999929,0.00118938,-0.01612193,-0.99987003,0,0)" />
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="61.265545"
        y="147.4343"
        id="text5795"><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3"
+         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="61.265545"
          y="147.4343"
-         id="tspan5793">USB A-</tspan><tspan
+         id="tspan5793">usb a-</tspan><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3"
+         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="61.265545"
          y="156.25374"
-         id="tspan5797">microB</tspan><tspan
+         id="tspan5797">microb</tspan><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3"
+         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="61.265545"
          y="165.07318"
          id="tspan5799">3</tspan></text>
@@ -638,18 +638,18 @@
        y="97.42672" />
     <text
        xml:space="preserve"
-       style="font-size:7.32903px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:2.49302;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:2.49302;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="-185.91422"
        y="48.844944"
        id="text5938"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.49302"
+         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.49302;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="-185.91422"
          y="48.844944"
-         id="tspan5936">Cat.6 Ethernet</tspan><tspan
+         id="tspan5936">cat.6 ethernet</tspan><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.49302"
+         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.49302;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="-185.91422"
          y="56.173973"
          id="tspan5945">4 diff pairs</tspan></text>
@@ -671,26 +671,26 @@
        transform="rotate(90)" />
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="36.773384"
        y="93.856972"
        id="text6111"><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3"
+         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="36.773384"
          y="93.856972"
-         id="tspan6109">12V,GND</tspan></text>
+         id="tspan6109">12v,gnd</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
-       x="59.588615"
-       y="136.66757"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       x="60.83733"
+       y="136.35539"
        id="text6115"><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3"
-         x="59.588615"
-         y="136.66757"
-         id="tspan6113">3 pairs PCie</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3"
+         x="60.83733"
+         y="136.35539"
+         id="tspan6113">3 pairs pcie</tspan></text>
     <rect
        style="fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:2.6614;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
        id="rect6117"
@@ -701,26 +701,26 @@
        transform="rotate(90)" />
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="53.948898"
        y="233.82455"
        id="text6121"><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3"
+         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="53.948898"
          y="233.82455"
-         id="tspan6119">12V,GND</tspan></text>
+         id="tspan6119">12v,gnd</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="60.614017"
        y="249.20563"
        id="text6127"><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3"
+         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="60.614017"
          y="249.20563"
-         id="tspan6125">3 pairs PCie</tspan></text>
+         id="tspan6125">3 pairs pcie</tspan></text>
     <g
        id="g6137"
        transform="translate(25.910175,119.05703)">
@@ -736,20 +736,20 @@
            y="102.03984" />
         <text
            xml:space="preserve"
-           style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#ffffff;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+           style="font-size:6.02465763px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#ffffff;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            x="67.77932"
            y="111.72868"
            id="text6135"><tspan
              sodipodi:role="line"
-             style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+             style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.02465763px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
              x="67.77932"
              y="111.72868"
-             id="tspan6133">DC-DC BUCK</tspan><tspan
+             id="tspan6133">dc-dc buck</tspan><tspan
              sodipodi:role="line"
-             style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+             style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.02465763px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
              x="67.77932"
              y="120.54813"
-             id="tspan6141">12V-&gt;5V</tspan></text>
+             id="tspan6141">12v-&gt;5v</tspan></text>
       </g>
     </g>
     <rect
@@ -761,26 +761,26 @@
        y="240.85503" />
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="88.478745"
        y="249.2056"
        id="text6153"><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3"
+         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="88.478745"
          y="249.2056"
-         id="tspan6151">5V</tspan></text>
+         id="tspan6151">5v</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="104.8852"
        y="260.48502"
        id="text6157"><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3"
+         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="104.8852"
          y="260.48502"
-         id="tspan6155">5V</tspan></text>
+         id="tspan6155">5v</tspan></text>
     <rect
        style="fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:1.71389;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
        id="rect6159"
@@ -799,15 +799,15 @@
        transform="rotate(90)" />
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="61.383072"
        y="285.35107"
        id="text6452"><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3"
+         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="61.383072"
          y="285.35107"
-         id="tspan6450">USB A-C</tspan></text>
+         id="tspan6450">usb a-c</tspan></text>
     <rect
        style="fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:1.60528;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
        id="rect6454"
@@ -831,20 +831,20 @@
            y="102.03984" />
         <text
            xml:space="preserve"
-           style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#ffffff;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+           style="font-size:6.02465763px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#ffffff;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            x="67.77932"
            y="111.72868"
            id="text6730"><tspan
              sodipodi:role="line"
-             style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+             style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.02465763px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
              x="67.77932"
              y="111.72868"
-             id="tspan6728">USB3 WIFI</tspan><tspan
+             id="tspan6728">usb3 wifi</tspan><tspan
              sodipodi:role="line"
-             style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+             style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.02465763px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
              x="67.77932"
              y="120.54813"
-             id="tspan6738">ADAPTER</tspan></text>
+             id="tspan6738">adapter</tspan></text>
       </g>
     </g>
     <rect
@@ -857,15 +857,15 @@
        transform="rotate(69.240497)" />
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="142.01608"
        y="250.74368"
        id="text6748"><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3"
+         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="142.01608"
          y="250.74368"
-         id="tspan6746">USB A-miniB3</tspan></text>
+         id="tspan6746">usb a-minib3</tspan></text>
     <rect
        style="fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:5.75181;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
        id="rect7040"
@@ -883,16 +883,16 @@
        transform="rotate(90)" />
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="-242.65779"
        y="29.734034"
        id="text7194"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3"
+         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="-242.65779"
          y="29.734034"
-         id="tspan7192">Ethernet</tspan></text>
+         id="tspan7192">ethernet</tspan></text>
     <g
        id="g7499"
        transform="translate(47.838808,-5.2731407)">
@@ -905,17 +905,17 @@
          y="112.80656" />
       <text
          xml:space="preserve"
-         style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#ffffff;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#ffffff;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="67.77932"
          y="121.98271"
          id="text7497"><tspan
            sodipodi:role="line"
-           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            x="67.77932"
            y="121.98271"
-           id="tspan7495">UC32_</tspan><tspan
+           id="tspan7495">uc32_</tspan><tspan
            sodipodi:role="line"
-           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            x="67.77932"
            y="130.80215"
            id="tspan7503">standalone</tspan></text>
@@ -932,20 +932,20 @@
          y="112.80656" />
       <text
          xml:space="preserve"
-         style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#ffffff;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#ffffff;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="67.77932"
          y="121.98271"
          id="text7511"><tspan
            sodipodi:role="line"
-           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            x="67.77932"
            y="121.98271"
-           id="tspan7509">USB3 </tspan><tspan
+           id="tspan7509">usb3 </tspan><tspan
            sodipodi:role="line"
-           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            x="67.77932"
            y="130.80215"
-           id="tspan7517">CAMERA</tspan></text>
+           id="tspan7517">camera</tspan></text>
     </g>
     <rect
        style="fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:1.06535;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
@@ -956,26 +956,26 @@
        y="103.19462" />
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
-       x="113.93499"
-       y="102.31655"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       x="113.60339"
+       y="101.32174"
        id="text7521"><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3"
-         x="113.93499"
-         y="102.31655"
-         id="tspan7519">12V,GND</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3"
+         x="113.60339"
+         y="101.32174"
+         id="tspan7519">12v,gnd</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="48.821877"
        y="84.884689"
        id="text7525"><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3"
+         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="48.821877"
          y="84.884689"
-         id="tspan7523">12V,GND</tspan></text>
+         id="tspan7523">12v,gnd</tspan></text>
     <rect
        style="fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:1.60528;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
        id="rect7527"
@@ -994,20 +994,20 @@
        transform="matrix(0.00207315,0.99999785,-0.99995722,0.00925008,0,0)" />
     <text
        xml:space="preserve"
-       style="font-size:5.86504px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:1.99504;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:1.99504;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="92.566948"
        y="99.193504"
        id="text7539"><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:1.99504"
+         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:1.99504;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="92.566948"
          y="99.193504"
-         id="tspan7533">USB A-</tspan><tspan
+         id="tspan7533">usb a-</tspan><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:1.99504"
+         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:1.99504;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="92.566948"
          y="105.05855"
-         id="tspan7537">microB 2</tspan></text>
+         id="tspan7537">microb 2</tspan></text>
     <rect
        style="fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:1.44691;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
        id="rect7541"
@@ -1018,15 +1018,15 @@
        transform="matrix(0.00207315,0.99999785,-0.99995722,0.00925008,0,0)" />
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="93.683289"
        y="135.38582"
        id="text7545"><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3"
+         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="93.683289"
          y="135.38582"
-         id="tspan7543">5V</tspan></text>
+         id="tspan7543">5v</tspan></text>
     <rect
        style="fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:2.77547;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
        id="rect7547"
@@ -1037,15 +1037,15 @@
        transform="matrix(0.00762805,0.99997091,-0.99999684,0.00251402,0,0)" />
     <text
        xml:space="preserve"
-       style="font-size:6.32714px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:2.15223;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:2.15223;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="115.02003"
        y="137.7179"
        id="text7555"><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.15223"
+         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.15223;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="115.02003"
          y="137.7179"
-         id="tspan7553">USB A-microB 3</tspan></text>
+         id="tspan7553">usb a-microb 3</tspan></text>
     <g
        id="g8367"
        transform="translate(83.21523,-5.0167898)">
@@ -1058,22 +1058,22 @@
          y="112.29385" />
       <text
          xml:space="preserve"
-         style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#ffffff;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#ffffff;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="67.77932"
          y="121.98271"
          id="text8365"><tspan
            sodipodi:role="line"
-           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            x="67.77932"
            y="121.98271"
-           id="tspan8371">Fluidics</tspan><tspan
+           id="tspan8371">fluidics</tspan><tspan
            sodipodi:role="line"
-           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            x="67.77932"
            y="130.80215"
            id="tspan8435">handling</tspan><tspan
            sodipodi:role="line"
-           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            x="67.77932"
            y="139.6216"
            id="tspan8437">+optical</tspan></text>
@@ -1088,20 +1088,20 @@
        transform="rotate(-90)" />
     <text
        xml:space="preserve"
-       style="font-size:7.77615px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:2.64512;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:2.64512;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="134.93005"
        y="99.525002"
        id="text8431"><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.64512"
+         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.64512;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="134.93005"
          y="99.525002"
          id="tspan8429">2x</tspan><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.64512"
+         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.64512;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="134.93005"
          y="107.30116"
-         id="tspan8433">Motor</tspan></text>
+         id="tspan8433">motor</tspan></text>
     <rect
        style="fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:1.06535;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
        id="rect8439"
@@ -1120,22 +1120,22 @@
        transform="rotate(-9.1133777)" />
     <text
        xml:space="preserve"
-       style="font-size:7.77615px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:2.64512;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:2.64512;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="179.79146"
        y="89.527321"
        id="text8447"><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.64512"
+         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.64512;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="179.79146"
          y="89.527321"
          id="tspan8445">3 mm </tspan><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.64512"
+         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.64512;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="179.79146"
          y="97.303474"
          id="tspan8451">silicone </tspan><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.64512"
+         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.64512;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="179.79146"
          y="105.07962"
          id="tspan8453">tubing</tspan></text>
@@ -1151,15 +1151,15 @@
          y="116.99302" />
       <text
          xml:space="preserve"
-         style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#ffffff;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#ffffff;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="135.00728"
          y="126.68188"
          id="text9378"><tspan
            sodipodi:role="line"
-           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            x="135.00728"
            y="126.68188"
-           id="tspan9376">Fluidics handling +optical</tspan></text>
+           id="tspan9376">fluidics handling +optical</tspan></text>
     </g>
     <rect
        style="fill:none;fill-opacity:0.78828;stroke:#000000;stroke-width:2.98112;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
@@ -1178,15 +1178,15 @@
        transform="rotate(-90)" />
     <text
        xml:space="preserve"
-       style="font-size:6.31739px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:2.14891;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:2.14891;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="133.30791"
        y="133.32849"
        id="text9587"><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.14891"
+         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.14891;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="133.30791"
          y="133.32849"
-         id="tspan9585">DAC</tspan></text>
+         id="tspan9585">dac</tspan></text>
     <rect
        style="fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:1.66047;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
        id="rect9788"
@@ -1219,39 +1219,39 @@
        transform="rotate(-90)" />
     <text
        xml:space="preserve"
-       style="font-size:7.77615px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:2.64512;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
-       x="284.34619"
-       y="41.375938"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:2.64512;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       x="287.99384"
+       y="41.044334"
        id="text9800"><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.64512"
-         x="284.34619"
-         y="41.375938"
-         id="tspan9798">BOX INLET</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.64512"
+         x="287.99384"
+         y="41.044334"
+         id="tspan9798">box inlet</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:7.77615px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:2.64512;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
-       x="369.83685"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:2.64512;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       x="363.53638"
        y="41.375938"
        id="text9806"><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.64512"
-         x="369.83685"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.64512"
+         x="363.53638"
          y="41.375938"
-         id="tspan9804">BOX OUTLET</tspan></text>
+         id="tspan9804">box outlet</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:7.77615px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:2.64512;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:2.64512;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="238.13501"
        y="131.10263"
        id="text9810"><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.64512"
+         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.64512;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="238.13501"
          y="131.10263"
-         id="tspan9808">MOTOR</tspan><tspan
+         id="tspan9808">motor</tspan><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.64512"
+         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.64512;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="238.13501"
          y="138.87878"
          id="tspan9812">pump</tspan></text>
@@ -1265,15 +1265,15 @@
        transform="rotate(-90)" />
     <text
        xml:space="preserve"
-       style="font-size:7.77615px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:2.64512;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:2.64512;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="234.66916"
        y="233.15233"
        id="text9820"><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.64512"
+         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.64512;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="234.66916"
          y="233.15233"
-         id="tspan9818">DAC</tspan></text>
+         id="tspan9818">dac</tspan></text>
     <rect
        style="fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3.32852;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
        id="rect9828"
@@ -1284,31 +1284,31 @@
        transform="rotate(-90)" />
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="230.09013"
        y="247.12404"
        id="text9834"><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3"
+         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="230.09013"
          y="247.12404"
-         id="tspan9832">12V,GND</tspan></text>
+         id="tspan9832">12v,gnd</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:7.77615px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:2.64512;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:2.64512;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="230.04805"
        y="277.43802"
        id="text9840"><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.64512"
+         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.64512;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="230.04805"
          y="277.43802"
-         id="tspan9836">MOTOR</tspan><tspan
+         id="tspan9836">motor</tspan><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.64512"
+         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.64512;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="230.04805"
          y="285.21417"
-         id="tspan9838">FOCUS</tspan></text>
+         id="tspan9838">focus</tspan></text>
     <rect
        style="fill:#0000ff;fill-opacity:0.617647;stroke:none;stroke-width:3.16763;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
        id="rect15420"
@@ -1363,15 +1363,15 @@
          y="178.18381" />
       <text
          xml:space="preserve"
-         style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#ffffff;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
          x="331.76596"
          y="188.11421"
          id="text19674"><tspan
            sodipodi:role="line"
-           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
            x="331.76596"
            y="188.11421"
-           id="tspan19672">capillary Flowcell</tspan></text>
+           id="tspan19672">capillary flowcell</tspan></text>
     </g>
     <rect
        style="fill:#0000ff;fill-opacity:0.617647;stroke:#00d1fe;stroke-width:2.2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
@@ -1383,62 +1383,62 @@
        transform="rotate(-90)" />
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:0;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:start;text-anchor:start;fill:#0000ff;fill-opacity:0.617647;stroke:none;stroke-width:2.2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;text-anchor:start;fill:#0000ff;fill-opacity:0.617647;stroke:none;stroke-width:2.2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="274.16391"
        y="175.85139"
        id="text21042"><tspan
          sodipodi:role="line"
          id="tspan21040"
-         style="stroke:none;stroke-width:2.2"
+         style="stroke:none;stroke-width:2.2;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="274.16391"
-         y="175.85139">Flowcell inlet</tspan></text>
+         y="175.85139">flowcell inlet</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:0;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:start;text-anchor:start;fill:#0000ff;fill-opacity:0.617647;stroke:none;stroke-width:2.2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;text-anchor:start;fill:#0000ff;fill-opacity:0.617647;stroke:none;stroke-width:2.2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="333.82776"
        y="176.09294"
        id="text21148"><tspan
          sodipodi:role="line"
          id="tspan21146"
-         style="stroke:none;stroke-width:2.2"
+         style="stroke:none;stroke-width:2.2;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="333.82776"
-         y="176.09294">Flowcell outlet</tspan></text>
+         y="176.09294">flowcell outlet</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:start;text-anchor:start;fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;text-anchor:start;fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="268.52957"
        y="98.101715"
        id="text21152"><tspan
          sodipodi:role="line"
          id="tspan21150"
-         style="fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2"
+         style="fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="268.52957"
-         y="98.101715">Peristaltic </tspan><tspan
+         y="98.101715">peristaltic </tspan><tspan
          sodipodi:role="line"
-         style="fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2"
+         style="fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="268.52957"
          y="106.92116"
          id="tspan21757">pump</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:start;text-anchor:start;fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
        x="321.68671"
        y="114.30903"
        id="text21156"><tspan
          sodipodi:role="line"
          id="tspan21154"
-         style="fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2"
          x="321.68671"
          y="114.30903">syringe as</tspan><tspan
          sodipodi:role="line"
-         style="fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2"
          x="321.68671"
-         y="123.12847"
-         id="tspan22032">OUtlet fluid </tspan><tspan
+         y="120.65903"
+         id="tspan22032">outlet fluid </tspan><tspan
          sodipodi:role="line"
-         style="fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2"
          x="321.68671"
-         y="131.94792"
+         y="127.00903"
          id="tspan21158">repository</tspan></text>
     <path
        style="fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
@@ -1447,50 +1447,50 @@
        sodipodi:nodetypes="cccccccccc" />
     <text
        xml:space="preserve"
-       style="font-size:7.65592px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:start;text-anchor:start;fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:1.90976;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;text-anchor:start;fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:1.90976;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="357.57297"
        y="99.859077"
        id="text21649"><tspan
          sodipodi:role="line"
          id="tspan21647"
-         style="text-align:center;text-anchor:middle;fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:1.90976"
+         style="text-align:center;text-anchor:middle;fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:1.90976;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="357.57297"
-         y="99.859077">Constriction </tspan><tspan
+         y="99.859077">constriction </tspan><tspan
          sodipodi:role="line"
-         style="fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:1.90976"
+         style="fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:1.90976;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="357.57297"
          y="107.515"
          id="tspan21753">valve</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:start;text-anchor:start;fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;text-anchor:start;fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="276.56918"
        y="55.587101"
        id="text21767"><tspan
          sodipodi:role="line"
-         style="fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2"
+         style="fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="276.56918"
          y="55.587101"
-         id="tspan21765">Inlet check</tspan></text>
+         id="tspan21765">inlet check</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:start;text-anchor:start;fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;text-anchor:start;fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="312.87979"
        y="58.903137"
        id="text21773"><tspan
          sodipodi:role="line"
-         style="fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2"
+         style="fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="312.87979"
          y="58.903137"
          id="tspan21771">bypass check</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:start;text-anchor:start;fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;text-anchor:start;fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="340.7345"
        y="78.965157"
        id="text21777"><tspan
          sodipodi:role="line"
-         style="fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2"
+         style="fill:#00d1fe;fill-opacity:1;stroke:none;stroke-width:2.2;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="340.7345"
          y="78.965157"
          id="tspan21775">outlet check</tspan></text>
@@ -1514,36 +1514,36 @@
          y="178.41142" />
       <text
          xml:space="preserve"
-         style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#ffffff;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#ffffff;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="340.64279"
          y="192.89406"
          id="text22303"><tspan
            sodipodi:role="line"
-           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            x="340.64279"
            y="192.89406"
            id="tspan22301">led illum</tspan><tspan
            sodipodi:role="line"
-           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            x="340.64279"
            y="201.7135"
            id="tspan22307">high power</tspan><tspan
            sodipodi:role="line"
-           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            x="340.64279"
            y="210.53294"
            id="tspan22309">cc driver</tspan></text>
     </g>
     <text
        xml:space="preserve"
-       style="font-size:7.77615px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:2.64512;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
-       x="285.42651"
-       y="228.82771"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d4aa00;fill-opacity:0.78828;stroke:none;stroke-width:2.64512;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       x="282.92908"
+       y="228.20335"
        id="text22315"><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.64512"
-         x="285.42651"
-         y="228.82771"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.64512"
+         x="282.92908"
+         y="228.20335"
          id="tspan22313">analog dim</tspan></text>
     <g
        id="g22327"
@@ -1557,17 +1557,17 @@
          y="182.73604" />
       <text
          xml:space="preserve"
-         style="font-size:8.81944px;line-height:1;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#ffffff;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:6.35px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#ffffff;fill-opacity:0.78828;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="340.64279"
          y="192.89406"
          id="text22325"><tspan
            sodipodi:role="line"
-           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            x="340.64279"
            y="192.89406"
            id="tspan22323">focus </tspan><tspan
            sodipodi:role="line"
-           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            x="340.64279"
            y="201.7135"
            id="tspan22334">motor</tspan></text>
