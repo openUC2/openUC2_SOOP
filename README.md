@@ -88,6 +88,9 @@ To install the necessary software and drivers:
      - **Password**: 12345678
    - This can be done via a mobile hotspot or the included Wi-Fi adapter. Replace `localhost` with the device's IP address when accessing remotely, for example: `https://192.168.1.102/docs`.
 
+
+**ATTENTION**: The external Hardrives Name must not contain any empty spaces!!!
+
 #### Quick Start Guide
 To get the microscope running for the first time:
 
@@ -166,6 +169,19 @@ To get the microscope running for the first time:
 
 
 https://github.com/openUC2/ImSwitchDockerInstall
+
+
+##### ImSwitch GUI
+
+https://github.com/openUC2/ImSwitch/blob/master/imswitch/imcontrol/view/widgets/FlowStopWidget.py
+
+#### ImSwitch Controller
+
+https://github.com/openUC2/ImSwitch/blob/master/imswitch/imcontrol/controller/controllers/FlowStopController.py
+
+#### ImSwitch Sharing of variables
+
+https://github.com/openUC2/ImSwitch/blob/master/imswitch/imcontrol/model/managers/FlowStopManager.py
 
 
 
