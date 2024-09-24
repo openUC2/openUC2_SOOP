@@ -1,15 +1,15 @@
-
+ 
 ### 1. **Einleitung**
    - **Projektübersicht**: Beschreibe das Ziel und die Anwendung des Mikroskops. Warum wurde es entwickelt? Was sind die Hauptfunktionen?
    - **Komponentenübersicht**: Liste alle Hauptkomponenten auf, die im Projekt verwendet wurden, einschließlich des Raspberry Pi, ESP32, Motortreiber, Kamera, 3D-Druckteile, und sonstige Zukaufteile.
 
 ### 2. **Technische Spezifikationen**
-   - **Elektronische Komponenten**: 
+   - **Elektronische Komponenten**:
      - Raspberry Pi Modell und Spezifikationen.
      - ESP32 Spezifikationen und dessen Funktionen in diesem Projekt.
      - Motortreiber und deren Spezifikationen.
      - Spannungsversorgung (12V) und Verteilung innerhalb des Systems.
-   - **Mechanische Komponenten**: 
+   - **Mechanische Komponenten**:
      - Beschreibungen der 3D-Druckteile: Material, Druckeinstellungen, und Funktion jedes Teils.
      - Details zu den Zukaufteilen (z.B. Optiken, Linsen, Kamera) und deren Spezifikationen.
 
@@ -20,7 +20,7 @@
 
 ### 4. **Software-Dokumentation**
    - **Firmware für ESP32**: Beschreibung des Codes, der auf dem ESP32 läuft. Dies sollte Funktionen für die Steuerung der Motoren und die Kommunikation mit dem Raspberry Pi beinhalten.
-   - **Software auf dem Raspberry Pi**: 
+   - **Software auf dem Raspberry Pi**:
      - Betriebssystem und installierte Software.
      - Beschreibung der Programme/Skripte, die die Kamera steuern, Bilder aufnehmen und verarbeiten, sowie die Kommunikation mit dem ESP32.
    - **Kommunikationsprotokolle**: Beschreibung der verwendeten Protokolle (z.B. UART, I2C, SPI) zwischen Raspberry Pi und ESP32, sowie zu den Motoren und anderen Komponenten.
